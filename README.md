@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/ZekariasBehailu/AirBnB_clone/blob/master/65f4a1dd9c51265f49d0.png?raw=true" alt="HolbertonBnB logo">
+  <img src="https://github.com/ZekariasBehailu/AirBnB_clone/hbnb_logo.png?raw=true" alt="HolbertonBnB logo">
 </p>
 
 <h1 align="center">HolbertonBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
 <p align="center">
-  <img src="https://github.com/??/AirBnB_clone/raw/master/images/pipeline.png" alt="HolbertonBnB logo">
+  <img src="https://github.com/??/AirBnB_clone/logo.png" alt="HolbertonBnB logo">
 </p>
 
 ---
@@ -282,4 +282,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-- **Zekarias Behailu** <[Michaelndula](https://github.com/ZekariasBehailu)>
+- **Zekarias Behailu** <[ZekariasBehailu](https://github.com/ZekariasBehailu)>
+- **Sylvester Woeyram Sipitey** <[SylvesterSipitey](https://github.com/ZekariasBehailu)>
